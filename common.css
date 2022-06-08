@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
 
 .wrapper{
@@ -16,6 +17,10 @@ body{
     color: #666;
     border: 1px solid #ddd;
     border-right:none;
+}
+
+.search-product input:focus{
+    outline: none;
 }
 
 .search-product button{
