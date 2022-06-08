@@ -1,0 +1,41 @@
+.logo h1{
+    font-size: 40px;
+    margin: 0;
+}
+
+.logo h1 span:first-of-type{
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    margin-right: 5px;
+    color: #D19C97;
+}
+
+.header{
+    margin-top: 25px;
+}
+.arrange-left{
+    float: left;
+}
+
+.wid-25{
+    width: 25%;
+}
+
+.wid-50{
+    width: 50%;
+}
+
+.common-btn{
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    background-color: #fff;
+    color: #D19C97;
+    min-width: 50px;
+    text-align: center;
+}
+
+.common-btn span{
+    font-size: 16px;
+    font-weight:800;
+}

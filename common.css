@@ -6,3 +6,30 @@ body{
     margin-left :5%;
     margin-right: 5%;
 }
+
+.search-product input{
+    width: 70%;
+    height: 20px;
+    border-radius: 0;
+    padding: 10px;
+    font-size: 18px;
+    color: #666;
+    border: 1px solid #ddd;
+    border-right:none;
+}
+
+.search-product button{
+    height: 40px;
+    border-radius: 0;
+    border: 1px solid #ddd;
+    margin-left: -3px;
+    font-size: 18px;
+    color: #D19C97;
+    background: #fff;
+
+
+}
+
+.selected-product{
+    text-align: center;
+}
